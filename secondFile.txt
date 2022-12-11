@@ -8,3 +8,5 @@
 8
 9
 10
+new line 1 in git 1
+new line 2 in git 1
